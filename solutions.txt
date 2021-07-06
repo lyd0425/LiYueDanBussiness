@@ -1,0 +1,2 @@
+[vue] 解决‘vue‘ 不是内部或外部命令，也不是可运行的程序 或批处理文件的方法：
+https://blog.csdn.net/qq_34450741/article/details/97626381
